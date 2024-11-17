@@ -16,7 +16,7 @@
             {
                 "layout": 1,
                 "buttontext": "Welcome",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://imgur.com/a/uKQ461u.png",
                 "content": [
                     {
                         "title": "Thanks for installing WBUI2!",
@@ -27,7 +27,7 @@
             {
                 "layout": 2,
                 "buttontext": "Settings",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://imgur.com/a/uKQ461u.png",
                 "content": [
                     {
                         "title": "INI settings:",
